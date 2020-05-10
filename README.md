@@ -6,7 +6,7 @@ A personal library of helpful Windows scripts to improve productivity.
 
 ## Table of Contents
 
-- **swap.ahk** - swaps highlighted text with the most recent saved text on Windows Clipboard (**control-q command**)
+- **swap.ahk** - swaps highlighted text with the most recent saved text on Windows Clipboard (executed with **control-q**)
 
 ## Installation
 
