@@ -1,19 +1,19 @@
 # ahkscripts
 
-##Description
+## Description
 
 A personal library of helpful Windows scripts to improve productivity.
 
-##Table of Contents
+## Table of Contents
 
 - **swap.ahk** - swaps highlighted text with the most recent saved text on Windows Clipboard (control-q command)
 
-##Installation
+## Installation
 
-###Prerequisites
+### Prerequisites
 - local system running Windows
-- current [AutoHotKey](https://www.autohotkey.com/) installed
+- [AutoHotKey](https://www.autohotkey.com/) is installed
 
-###How to Run
+### How to Run
 1. Download/Copy script to a local folder
 2. Double-click the file
