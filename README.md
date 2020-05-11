@@ -6,8 +6,8 @@ A personal library of helpful Windows scripts to improve productivity.
 
 ## Table of Contents
 
-- **swap.ahk** - swaps highlighted text with the most recent saved text on Windows Clipboard (executed with **control-q**)
-- **zoom_wheel.ahk** - upon execution script will open a GUI window with 4 buttons, each upon activation will open a Chrome window to a Zoom lecture (executed with **file click**)
+- **scripts/swap.ahk** - swaps highlighted text with the most recent saved text on Windows Clipboard (executed with **control-q**)
+- **scripts/zoom_wheel.ahk** - upon execution script will open a GUI window with 4 buttons, each upon activation will open a Chrome window to a Zoom lecture (executed with **file click**)
 
 ## Installation
 
