@@ -33,7 +33,7 @@ Open_154_zoom:
 	return
 
 Open_138_zoom:
-	Run, https://ucsb.zoom.us/j/582893168?pwd=SzhVa3VQRGJPWGtKdzFBYkFlano1QT09
+	Run, chrome.exe https://ucsb.zoom.us/j/582893168?pwd=SzhVa3VQRGJPWGtKdzFBYkFlano1QT09
 	ExitApp
 	return
 
@@ -49,7 +49,6 @@ Open_Discussion_zoom:
 
 ; Functions
 ;--------------------
-
 
 ; Hotkeys
 ;--------------------
