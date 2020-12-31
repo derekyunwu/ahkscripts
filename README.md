@@ -1,7 +1,4 @@
 # ahkscripts
-
-## Description
-
 A personal library of helpful Windows scripts to improve productivity.
 
 ## Table of Contents
